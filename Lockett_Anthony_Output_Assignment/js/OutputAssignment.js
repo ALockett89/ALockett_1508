@@ -5,7 +5,8 @@
  8/5/15
  */
 
-alert("This is in the js file");
+alert("Here is my Week 1 submission!");
+
 var myage = 26
 var yearofbirth = 1989
 var favteam = "New Orleans Saints"
