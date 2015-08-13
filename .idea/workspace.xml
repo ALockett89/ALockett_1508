@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/Lockett Anthony Output Assignment/js/OutputAssignment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="98" />
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="50" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -58,8 +58,8 @@
       <file leaf-file-name="ExpressionsAssignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/js/ExpressionsAssignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63670415">
-              <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
+            <state vertical-scroll-proportion="0.411985">
+              <caret line="22" column="110" selection-start-line="22" selection-start-column="110" selection-end-line="22" selection-end-column="110" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -319,7 +319,7 @@
     <entry file="file://$PROJECT_DIR$/Lockett Anthony Output Assignment/js/OutputAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="98" />
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="50" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -328,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/js/ExpressionsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63670415">
-          <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
+        <state vertical-scroll-proportion="0.411985">
+          <caret line="22" column="110" selection-start-line="22" selection-start-column="110" selection-end-line="22" selection-end-column="110" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
