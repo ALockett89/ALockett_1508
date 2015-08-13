@@ -18,7 +18,7 @@ var B = numofweeks * weeks[1]
 var hours1 = A * hoursworked
 var hours2 = B * hoursworked
 
-if(numofweeks <= weeks[2]){
+if(numofweeks <= weeks[1]){
     console.log("Hours you worked this pay period:" + space + hours1)
 }else{
     console.log("Hours you worked this pay period:" + space + hours2)
@@ -27,13 +27,12 @@ var payrate = prompt("Next, what is your hourly pay rate? \n *Please only use nu
 console.log("Your wage is $" + payrate + space + "an hour!")
 alert("Now lets calculate your next paycheck! =} \nComputing................................")
 alert("................................Almost done \n................................")
-if(numofweeks <= weeks[2]){
+if(numofweeks <= weeks[1]){
     var paycheck1 = payrate * hours1
     alert("Your gross income on your next paycheck will be $:" + paycheck1 + "!" + "\nDon't spend it all in one place!")
-    console.log("Your gross income on your next paycheck will be $:" + paycheck1)
+    console.log("Your gross income on your next paycheck will be $" + paycheck1)
 }else{
     var paycheck2 = payrate * hours2
     alert("Your gross income on your next paycheck will be $:" + paycheck2 + "!" + "\nDon't spend it all in one place!")
     console.log("Your gross income on your next paycheck will be $:" + paycheck2)
 }
-alert("Your gross income on your next paycheck will be $:" + paycheck1 + "!" + "\nDon't spend it all in one place!")
