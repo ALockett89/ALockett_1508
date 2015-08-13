@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9afb5fc-70ae-4396-ba4d-6bf4664be4c8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/AssociatingJS.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lockett Anthony Expressions Assignment/Expressions Assignment/js/ExpressionsAssignment.js" afterPath="" />
-    </list>
+    <list default="true" id="c9afb5fc-70ae-4396-ba4d-6bf4664be4c8" name="Default" comment="" />
     <ignored path="ALockett_1508.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
