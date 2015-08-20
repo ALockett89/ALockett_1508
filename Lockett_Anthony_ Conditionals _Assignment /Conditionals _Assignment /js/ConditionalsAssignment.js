@@ -20,8 +20,11 @@ if(weeksBetweenPay === true) {
         } else if (isNaN(hoursworked)) {
             hoursworked = prompt("How many hours do you work in a week?\n** Please Only Use Nnumbers!**")
         }
-        console.log("You've worked" + space + hoursworked + space + "hours in a week!")
-    }
+    }console.log("You've worked" + space + hoursworked + space + "hours in a week!")
+} else {
+
+}
+if(weeksBetweenPay === true) {
     var dollarsbyhours = prompt("How much do you make an hour?")
     while (dollarsbyhours === "" || isNaN(dollarsbyhours)) {
         if (dollarsbyhours === "") {
@@ -29,18 +32,14 @@ if(weeksBetweenPay === true) {
         } else if (isNaN(dollarsbyhours)) {
             dollarsbyhours = prompt("How much do you make an hour?\n** Please Only Use Nnumbers!**")
         }
-        console.log("You've worked" + space + hoursworked + space + "hours in a week!")
-        var gross = weeks[1] * hoursworked
-        console.log("Your gross income is $" + gross + "!")
-
-    }
-}else{
+    } var gross1 = weeks[0] * hoursworked * dollarsbyhours
+    console.log("Your gross income is $" + gross1 + "!")
+} else {
 
 }
 var taxes = true
 taxes = confirm("Do you pay taxes in Louisiana? \nPress OK for Yes \nPress CANCEL for No")
-console.log("You've worked" + space + hoursworked + space + "hours in a week!")
-console.log("Your gross income is $" + gross + "!")
-console.log("You've worked" + space + hoursworked + space + "hours in a week!")
+
+
 console.log("Do you pay taxes in Louisiana:" + space + taxes);
 
