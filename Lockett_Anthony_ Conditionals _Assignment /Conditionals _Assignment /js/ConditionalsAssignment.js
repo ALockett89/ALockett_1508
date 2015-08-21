@@ -7,31 +7,31 @@
 
 
 alert("          Here is my Week 3 submission! \n               Conditionals Assignment");// Just a friendly alert that I added.
-var space = " "
-var weeks = [1,2]
+var space = " "// This variable helps me make spaces in my strings easier.
+var weeks = [1]// This variable is an array holds the number of weeks in between paychecks.
 var weeksBetweenPay = true
 weeksBetweenPay = confirm("Do you get paid every week? \nPress OK for Yes \nPress CANCEL for No")
 console.log("Do you get paid every week:" + space + weeksBetweenPay)
 if(weeksBetweenPay === true) {
-    var hoursworked = prompt("How many hours do you work in a week?")
+    var hoursworked = prompt("How many hours do you work in a week?")// This variable is a prompt that is asking for the number of hours the user has worked in a week.
     while (hoursworked === "" || isNaN(hoursworked)) {
         if (hoursworked === "") {
-            hoursworked = prompt("How many hours do you work in a week?\n**Please Do Not Leave Blank!**")
+            hoursworked = prompt("How many hours do you work in a week?\n**Please Do Not Leave Blank!**")// This variable is a prompt that is asking for the number of hours the user has worked in a week.
         } else if (isNaN(hoursworked)) {
-            hoursworked = prompt("How many hours do you work in a week?\n** Please Only Use Nnumbers!**")
+            hoursworked = prompt("How many hours do you work in a week?\n** Please Only Use Nnumbers!**")// This variable is a prompt that is asking for the number of hours the user has worked in a week.
         }
-    }console.log("You've worked" + space + hoursworked + space + "hours in a week!")
+    }console.log("You've worked" + space + hoursworked + space + "hours in a week!")// This outputs the user's input to the console.
 } else {
     if (weeksBetweenPay === false) {
-        var hoursworked2 = prompt("How many hours do you work in a week?")
+        var hoursworked2 = prompt("How many hours do you work in a week?")// This variable is a prompt that is asking for the number of hours the user has worked in a week.
         while (hoursworked2 === "" || isNaN(hoursworked2)) {
             if (hoursworked2 === "") {
-                hoursworked2 = prompt("How many hours do you work in a week?\n**Please Do Not Leave Blank!**")
+                hoursworked2 = prompt("How many hours do you work in a week?\n**Please Do Not Leave Blank!**")// This variable is a prompt that is asking for the number of hours the user has worked in a week.
             } else if (isNaN(hoursworked2)) {
-                hoursworked2 = prompt("How many hours do you work in a week?\n** Please Only Use Nnumbers!**")
+                hoursworked2 = prompt("How many hours do you work in a week?\n** Please Only Use Nnumbers!**")// This variable is a prompt that is asking for the number of hours the user has worked in a week.
             }
         }var hoursworked3 = Number(hoursworked2)
-        console.log("You've worked" + space + hoursworked2 + space + "hours in a week!")
+        console.log("You've worked" + space + hoursworked2 + space + "hours in a week!")// This outputs the user's input to the console.
     }
 }
 if(weeksBetweenPay === true) {
