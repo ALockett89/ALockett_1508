@@ -60,17 +60,9 @@ if(weeksBetweenPay === true) {
 }
 var taxes = true
 taxes = confirm("Do you pay taxes in Louisiana? \nPress OK for Yes \nPress CANCEL for No")
-if(weeksBetweenPay === true) {
-    var dollarsbyhours = prompt("How much do you make an hour?")
-    while (dollarsbyhours === "" || isNaN(dollarsbyhours)) {
-        if (dollarsbyhours === "") {
-            dollarsbyhours = prompt("How much do you make an hour?\n**Please Do Not Leave Blank!**")
-        } else if (isNaN(dollarsbyhours)) {
-            dollarsbyhours = prompt("How much do you make an hour?\n** Please Only Use Nnumbers!**")
-        }
-    }
-    var gross1 = weeks[0] * hoursworked * dollarsbyhours
-    console.log("Your gross income is $" + gross1 + "!")
+if(taxes === true) {
+    var LAtax = .9
+    var taxestrue = gross1 * LAtax
 }
 
 console.log("Do you pay taxes in Louisiana:" + space + taxes);
