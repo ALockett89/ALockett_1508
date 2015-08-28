@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9afb5fc-70ae-4396-ba4d-6bf4664be4c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/hfjfjf.js" afterPath="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/hfjfjf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/FunctionsAssignment.js" afterPath="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/FunctionsAssignment.js" />
     </list>
     <ignored path="ALockett_1508.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunctionsAssignment.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FunctionsAssignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/FunctionsAssignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="125" />
+            <state vertical-scroll-proportion="0.9625935">
+              <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -69,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hfjfjf.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hfjfjf.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/hfjfjf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7755611">
-              <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -113,10 +113,10 @@
         <option value="$PROJECT_DIR$/Lockett_Anthony_Expressions_Assignment/Expressions_Assignment/js/ExpressionsAssignment.js" />
         <option value="$PROJECT_DIR$/Lockett_Anthony_ Conditionals _Assignment /Conditionals _Assignment /index.html" />
         <option value="$PROJECT_DIR$/Lockett_Anthony_ Conditionals _Assignment /Conditionals _Assignment /js/ConditionalsAssignment.js" />
-        <option value="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/FunctionsAssignment.js" />
         <option value="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /index.html" />
         <option value="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/test.js" />
         <option value="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/hfjfjf.js" />
+        <option value="$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/FunctionsAssignment.js" />
       </list>
     </option>
   </component>
@@ -378,20 +378,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/FunctionsAssignment.js">
+    <entry file="file://$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/hfjfjf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="125" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/hfjfjf.js">
+    <entry file="file://$PROJECT_DIR$/Lockett_Anthony_Functions _Assignment /Functions _Assignment /js/FunctionsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7755611">
-          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.9625935">
+          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
