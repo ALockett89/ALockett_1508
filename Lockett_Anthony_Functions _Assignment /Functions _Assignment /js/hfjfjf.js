@@ -60,3 +60,15 @@ function whichlotto(){
     }
 }
 var lottochosen = whichlotto()
+
+function lottotime(){
+    if (lottochosen === true){
+        function flolotto(){
+            var lottotrue = [];
+            for (var i = 0; i < 6; i++) {
+                lottotrue = Math.random() * (53 - 1) + 1
+                lottotrue = Math.round(lottotrue)
+            }
+        }
+    }
+}
