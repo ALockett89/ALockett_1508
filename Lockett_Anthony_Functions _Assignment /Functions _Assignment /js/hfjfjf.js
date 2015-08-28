@@ -49,26 +49,38 @@ function whichlotto(){
             }
         }
         if (lottoprompt < 2){
-            var lottoprompt2 = true
+            var lottoprompt2 = 1
             alert("OK, you have chosen to play the Florida Lottery!\nLet's Begin!")
             console.log("User has chosen to play the Florida Lottery!")
         }else{
-            var lottoprompt2 = false
+            var lottoprompt2 = 2
             alert("OK, you have chosen to play the Powerball Lottery!\nLet's Begin!")
             console.log("User has chosen to play the Powerball Lottery!")
-        }return lottoprompt2
-    }
+        }
+    }return lottoprompt2
 }
 var lottochosen = whichlotto()
 
-function lottotime(){
-    if (lottochosen === true){
-        function flolotto(){
-            var lottotrue = [];
-            for (var i = 0; i < 6; i++) {
-                lottotrue = Math.random() * (53 - 1) + 1
-                lottotrue = Math.round(lottotrue)
+function truefalse(){
+    if (lottochosen === 1){
+        var truefalse = true
+    }else{
+        var truefalse = false
+    }return truefalse
+}console.log(truefalse())
+var mathtime = truefalse()
+
+if (mathtime === false){
+    function flolotto(){
+        var lottotrue = [];
+        for (var i = 0; i < 6; i++) {
+            lottotrue[i] = Math.random() * (53 - 1) + 1
+            lottotrue[i] = Math.round(lottotrue[i])
             }
+        return flolotto();
         }
     }
-}
+
+
+var usergame = flolotto();
+console.log(usergame)
